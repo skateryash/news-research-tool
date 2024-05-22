@@ -60,4 +60,4 @@ streamlit run app.py
 - **Libraries and Tools**: LangChain, Streamlit, HuggingFace, FAISS, Google Gemini
 
 ## Contact
-For any questions or suggestions, please open an issue or reach out via [LinkedIn]([https://www.](https://www.linkedin.com/in/yashgchaudhary/)).
+For any questions or suggestions, please open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/yashgchaudhary/).
